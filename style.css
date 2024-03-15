@@ -1,0 +1,14 @@
+/* Estilos básicos para el botón */
+#changeBackgroundBtn {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+/* Estilos básicos para el contenedor del color actual */
+#currentColor {
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid #000;
+    text-align: center;
+}
